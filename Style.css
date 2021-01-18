@@ -1,0 +1,22 @@
+            h1 {
+                color: brown;
+            }
+            
+            body {
+                background-color: #ffffff
+            }
+            
+            .header {
+                background-color: orange;
+            }
+            
+            .grid {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly
+            }
+            
+            .footer {
+                display: flex;
+                justify-content: flex-start
+            }
